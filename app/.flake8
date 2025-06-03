@@ -1,4 +1,4 @@
-
+# Used to check code for staksfejl etc...
 [flake8]
 exclude =
     migrations,
